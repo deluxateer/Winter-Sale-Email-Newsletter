@@ -1,0 +1,473 @@
+17c17
+<         
+---
+> 
+86a87
+> 			border-top:10px solid #26bb13;
+120c121
+< 			/*@editable*/border-top:0;
+---
+> 			/*@editable*/border-top:10px solid #26bb13;
+138,139c139,140
+< 			/*@editable*/font-family:Georgia;
+< 			/*@editable*/font-size:30px;
+---
+> 			/*@editable*/font-family:'Playfair Display', Georgia, 'Times New Roman', serif;
+> 			/*@editable*/font-size:33px;
+154,155c155,156
+< 			/*@editable*/font-family:Georgia;
+< 			/*@editable*/font-size:22px;
+---
+> 			/*@editable*/font-family:Georgia, Times, 'Times New Roman', serif;
+> 			/*@editable*/font-size:23px;
+238c239
+< 			/*@editable*/background-color:#A0D1D8;
+---
+> 			/*@editable*/background-color:#a0d1d8;
+244c245
+< 			/*@editable*/border-bottom:0;
+---
+> 			/*@editable*/border-bottom:10px solid #d80909;
+255c256
+< 			/*@editable*/font-family:Georgia;
+---
+> 			/*@editable*/font-family:'Playfair Display', Georgia, 'Times New Roman', serif;
+276c277
+< 			/*@editable*/background-color:#EEEEEE;
+---
+> 			/*@editable*/background-color:#ffffff;
+314c315
+< 			/*@editable*/background-color:#EEEEEE;
+---
+> 			/*@editable*/background-color:#ffffff;
+359c360
+< 			/*@editable*/padding-top:9px;
+---
+> 			/*@editable*/padding-top:0px;
+598c599,624
+< }</style></head>
+---
+> }
+> 
+> /******************************************************
+> ***REMOVED***'s Styles
+> ******************************************************/
+> 
+> .old-price{
+> 	text-decoration: line-through;
+> 	color: red;
+> }
+> .mcnButtonBlockInner {
+> 	background-color: #ffffff;
+> 	padding: 10px 0;
+> }
+> .mcnImageCardBottomContent {
+> 	 box-shadow: 5px 5px 2px #dddddd;
+> 	 border-radius: 8%;
+> }
+> .mcnImage {
+> 	border-radius: 8% 8% 0 0;
+> 	border-bottom: 6px solid #FFD249;
+> }
+> 
+> 
+> 
+> </style></head>
+623c649
+< 			    
+---
+> 
+629c655
+<                         
+---
+> 
+631c657
+<                         
+---
+> 
+639c665
+<                 
+---
+> 
+657,661c683,687
+<                                 
+<                                     
+<                                         <img align="center" alt="" src="https://cdn-images.mailchimp.com/template_images/gallery/wl_logo.png" width="135" style="max-width:135px; padding-bottom: 0; display: inline !important; vertical-align: bottom;" class="mcnImage">
+<                                     
+<                                 
+---
+> 
+> 
+>                                         <img align="center" alt="" src="https://cdn-images.mailchimp.com/template_images/gallery/wl_logo.png" width="135" style="max-width:135px; padding-bottom: 0; display: inline !important; vertical-align: bottom; border: none;" class="mcnImage">
+> 
+> 
+676c702
+< 			    
+---
+> 
+682c708
+<                         
+---
+> 
+684,685c710,712
+<                         
+<                             <h1>WEEKLY DEALS</h1>
+---
+> 
+>                             <h1>WINTER SEASONAL SALE</h1>
+> 
+692c719
+<                 
+---
+> 
+711c738
+< 			    
+---
+> 
+717c744
+<                         
+---
+> 
+719,720c746,751
+<                         
+<                             <h2>We scour the web for the best travel deals so you don't have to—here's what we found this week.</h2><br>Save money by booking one of our preplanned trips. Hotel, airfare, car rental, and all other accommodations are included. This is the best way to travel because you don't have to think about anything besides having a good time.<br><br>Here's our curated list of winter trips just for you:
+---
+> 
+>                             <h2>Get up to 40% off Autumn apparel, with free shipping.</h2>
+> <br>
+> Just enter the code GVMEDSCNTS on an select items to receive at most 40% of the retail price.&nbsp;Save money by ordering with bulk! Free shipping is included with orders that exceed $39.99. Hurry, before this offer expires next Tuesday!<br>
+> <br>
+> Here's our curated list of items just for you:
+727c758
+<                 
+---
+> 
+750c781
+<                 
+---
+> 
+754,755d784
+<         
+<             
+757,759c786,790
+<             <img alt="" src="https://cdn-images.mailchimp.com/template_images/gallery/winter3.jpeg" width="264" style="max-width:400px;" class="mcnImage">
+<             
+<         
+---
+> 
+> 
+>             <img alt="" src="https://gallery.mailchimp.com/683c71a0e95df45ef80375d17/images/db6a4784-a479-41c1-a761-f455609ff9f8.jpg" width="260" style="max-width:1024px;" class="mcnImage">
+> 
+> 
+764c795,796
+<             <strong>Ski Vail—2 for 1</strong><br>Lodging and lift tickets for two
+---
+>             <strong>Van Helsig Gray T-Shirt</strong><br>
+> <span class="old-price">$39.99&nbsp;</span> <strong><span style="color:#008000">$28.99</span></strong>
+779c811
+<                 
+---
+> 
+783,784d814
+<         
+<             
+786,788c816,820
+<             <img alt="" src="https://cdn-images.mailchimp.com/template_images/gallery/winter6.jpeg" width="264" style="max-width:400px;" class="mcnImage">
+<             
+<         
+---
+> 
+> 
+>             <img alt="" src="https://gallery.mailchimp.com/683c71a0e95df45ef80375d17/images/422c4ab2-a074-4559-abaa-02923934479d.jpg" width="260" style="max-width:1024px;" class="mcnImage">
+> 
+> 
+793c825,826
+<             <strong>Alaskan Adventure</strong><br>Tobogganing and helicopter tours
+---
+>             <strong>Kate Co. Decorated Blouse</strong><br>
+> <span class="old-price">$49.99&nbsp;</span> <strong><span style="color:#008000">$31.99</span></strong>
+817c850
+<                 
+---
+> 
+821,822d853
+<         
+<             
+824,826c855,859
+<             <img alt="" src="https://cdn-images.mailchimp.com/template_images/gallery/winter4.jpeg" width="264" style="max-width:400px;" class="mcnImage">
+<             
+<         
+---
+> 
+> 
+>             <img alt="" src="https://gallery.mailchimp.com/683c71a0e95df45ef80375d17/images/f2e4789f-c256-42e0-8757-c5eaa8cad557.jpg" width="260" style="max-width:1024px;" class="mcnImage">
+> 
+> 
+831c864,865
+<             <strong>Taos Retreat</strong><br>Sleeps up to 7
+---
+>             <strong>Manos Denim Jacket</strong><br>
+> <span class="old-price">$79.99&nbsp;</span> <strong><span style="color:#008000">$38.99</span></strong>
+846c880
+<                 
+---
+> 
+850,851d883
+<         
+<             
+853,855c885,889
+<             <img alt="" src="https://cdn-images.mailchimp.com/template_images/gallery/winter5.jpeg" width="264" style="max-width:400px;" class="mcnImage">
+<             
+<         
+---
+> 
+> 
+>             <img alt="" src="https://gallery.mailchimp.com/683c71a0e95df45ef80375d17/images/03eecaa1-f65b-42d6-ad7e-5f7bb3663715.jpg" width="260" style="max-width:1024px;" class="mcnImage">
+> 
+> 
+860c894,895
+<             <strong>Utah Cross Country Ski Trip</strong><br>For the serious winter athlete
+---
+>             <strong>PedX White Heels</strong><br>
+> <span class="old-price">$129.99&nbsp;</span> <strong><span style="color:#008000">$78.99</span></strong>
+885,886c920,921
+<             <td style="padding-top:0; padding-right:18px; padding-bottom:18px; padding-left:18px;" valign="top" align="center" class="mcnButtonBlockInner">
+<                 <table border="0" cellpadding="0" cellspacing="0" class="mcnButtonContentContainer" style="border-collapse: separate !important;border: 1px solid #000000;border-radius: 3px;">
+---
+>             <td style="padding-top:10px; padding-right:18px; padding-bottom:25px; padding-left:18px;" valign="top" align="center" class="mcnButtonBlockInner">
+>                 <table border="0" cellpadding="0" cellspacing="0" class="mcnButtonContentContainer" style="border-collapse: separate !important;border-radius: 3px;background-color: #FFD249;">
+890c925
+<                                 <a class="mcnButton " title="Explore Your Trip List" href="#" target="_blank" style="font-weight: bold;letter-spacing: normal;line-height: 100%;text-align: center;text-decoration: none;color: #000000;">Explore Your Trip List</a>
+---
+>                                 <a class="mcnButton " title="Explore More Selections Here" href="http://" target="_blank" style="font-weight: bold;letter-spacing: normal;line-height: 100%;text-align: center;text-decoration: none;color: #000000;">Explore More Selections Here</a>
+902c937
+<                 <table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;border-top: 2px solid #FFFFFF;">
+---
+>                 <table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;border-top: 2px solid #D6D6D6;">
+909c944
+< <!--            
+---
+> <!--
+933c968
+<                                     
+---
+> 
+937,938c972,973
+<                                         
+<                                         
+---
+> 
+> 
+947c982
+<                                                                             
+---
+> 
+951,952c986,987
+<                                                                             
+<                                                                             
+---
+> 
+> 
+961c996
+<                                         
+---
+> 
+965c1000
+<                                     
+---
+> 
+969,970c1004,1005
+<                                         
+<                                         
+---
+> 
+> 
+979c1014
+<                                                                             
+---
+> 
+983,984c1018,1083
+<                                                                             
+<                                                                             
+---
+> 
+> 
+>                                                                         </tr>
+>                                                                     </tbody></table>
+>                                                                 </td>
+>                                                             </tr>
+>                                                         </tbody></table>
+>                                                     </td>
+>                                                 </tr>
+>                                             </tbody></table>
+> 
+>                                         <!--[if mso]>
+>                                         </td>
+>                                         <![endif]-->
+> 
+>                                         <!--[if mso]>
+>                                         <td align="center" valign="top">
+>                                         <![endif]-->
+> 
+> 
+>                                             <table align="left" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
+>                                                 <tbody><tr>
+>                                                     <td valign="top" style="padding-right:10px; padding-bottom:9px;" class="mcnFollowContentItemContainer">
+>                                                         <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
+>                                                             <tbody><tr>
+>                                                                 <td align="left" valign="middle" style="padding-top:5px; padding-right:10px; padding-bottom:5px; padding-left:9px;">
+>                                                                     <table align="left" border="0" cellpadding="0" cellspacing="0" width="">
+>                                                                         <tbody><tr>
+> 
+>                                                                                 <td align="center" valign="middle" width="24" class="mcnFollowIconContent">
+>                                                                                     <a href="http://www.youtube.com" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/dark-youtube-48.png" style="display:block;" height="24" width="24" class=""></a>
+>                                                                                 </td>
+> 
+> 
+>                                                                         </tr>
+>                                                                     </tbody></table>
+>                                                                 </td>
+>                                                             </tr>
+>                                                         </tbody></table>
+>                                                     </td>
+>                                                 </tr>
+>                                             </tbody></table>
+> 
+>                                         <!--[if mso]>
+>                                         </td>
+>                                         <![endif]-->
+> 
+>                                         <!--[if mso]>
+>                                         <td align="center" valign="top">
+>                                         <![endif]-->
+> 
+> 
+>                                             <table align="left" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
+>                                                 <tbody><tr>
+>                                                     <td valign="top" style="padding-right:10px; padding-bottom:9px;" class="mcnFollowContentItemContainer">
+>                                                         <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
+>                                                             <tbody><tr>
+>                                                                 <td align="left" valign="middle" style="padding-top:5px; padding-right:10px; padding-bottom:5px; padding-left:9px;">
+>                                                                     <table align="left" border="0" cellpadding="0" cellspacing="0" width="">
+>                                                                         <tbody><tr>
+> 
+>                                                                                 <td align="center" valign="middle" width="24" class="mcnFollowIconContent">
+>                                                                                     <a href="http://www.pinterest.com" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/dark-pinterest-48.png" style="display:block;" height="24" width="24" class=""></a>
+>                                                                                 </td>
+> 
+> 
+993c1092
+<                                         
+---
+> 
+997c1096
+<                                     
+---
+> 
+1001,1002c1100,1133
+<                                         
+<                                         
+---
+> 
+> 
+>                                             <table align="left" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
+>                                                 <tbody><tr>
+>                                                     <td valign="top" style="padding-right:10px; padding-bottom:9px;" class="mcnFollowContentItemContainer">
+>                                                         <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
+>                                                             <tbody><tr>
+>                                                                 <td align="left" valign="middle" style="padding-top:5px; padding-right:10px; padding-bottom:5px; padding-left:9px;">
+>                                                                     <table align="left" border="0" cellpadding="0" cellspacing="0" width="">
+>                                                                         <tbody><tr>
+> 
+>                                                                                 <td align="center" valign="middle" width="24" class="mcnFollowIconContent">
+>                                                                                     <a href="http://instagram.com" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/dark-instagram-48.png" style="display:block;" height="24" width="24" class=""></a>
+>                                                                                 </td>
+> 
+> 
+>                                                                         </tr>
+>                                                                     </tbody></table>
+>                                                                 </td>
+>                                                             </tr>
+>                                                         </tbody></table>
+>                                                     </td>
+>                                                 </tr>
+>                                             </tbody></table>
+> 
+>                                         <!--[if mso]>
+>                                         </td>
+>                                         <![endif]-->
+> 
+>                                         <!--[if mso]>
+>                                         <td align="center" valign="top">
+>                                         <![endif]-->
+> 
+> 
+1011c1142
+<                                                                             
+---
+> 
+1013c1144
+<                                                                                     <a href="http://mailchimp.com" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/dark-link-48.png" style="display:block;" height="24" width="24" class=""></a>
+---
+>                                                                                     <a href="https://www.snapchat.com/add/" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/dark-snapchat-48.png" style="display:block;" height="24" width="24" class=""></a>
+1015,1016c1146,1147
+<                                                                             
+<                                                                             
+---
+> 
+> 
+1025c1156
+<                                         
+---
+> 
+1029c1160
+<                                     
+---
+> 
+1055c1186
+< 			    
+---
+> 
+1061c1192
+<                         
+---
+> 
+1063,1080d1193
+<                         
+<                             <em>Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.</em>
+< <br>
+< *|IFNOT:ARCHIVE_PAGE|*
+<     *|LIST:DESCRIPTION|*
+<     <br>
+<     <br>
+<     <strong>Our mailing address is:</strong>
+<     <br>
+<     *|HTML:LIST_ADDRESS_HTML|* *|END:IF|*
+<     <br>
+<     <br>
+< 	Want to change how you receive these emails?<br>
+<     You can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.
+<     <br>
+<     <br>
+<     *|IF:REWARDS|* *|HTML:REWARDS|*
+< *|END:IF|*
+1081a1195,1204
+>                             <em>Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.</em><br>
+> *|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*<br>
+> <br>
+> <strong>Our mailing address is:</strong><br>
+> *|HTML:LIST_ADDRESS_HTML|* *|END:IF|*<br>
+> <br>
+> Want to change how you receive these emails?<br>
+> You can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.<br>
+> <br>
+> *|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*
+1088c1211
+<                 
+---
+> 
+1110c1233
+< </html>
+\ No newline at end of file
+---
+> </html>
